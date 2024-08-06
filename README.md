@@ -1,9 +1,9 @@
-##Descrição do Desafio###
+## Descrição do Desafio
 Ponha em prática os fundamentos da linguagem e noções de regras de estrutura de sintaxe.
 
 Agora é a sua vez de ser o protagonista! Implemente o desafio sugerido pela expert criando um repositório próprio e, com isso, aumentando ainda mais seu portfólio de projetos no GitHub!
 
-###Pré-requisitos:###
+### Pré-requisitos:
 
 * Lógica de programação e POO;
 
@@ -13,7 +13,7 @@ Agora é a sua vez de ser o protagonista! Implemente o desafio sugerido pela exp
 
 * IDE (Visual Studio Code, Eclipse, etc);
 
-###Sintaxe - Desafio###
+### Sintaxe - Desafio
 Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
 
 1. Crie o projeto ContaBanco que receberá dados via terminal contendo as características de conta em banco conforme atributos abaixo:
@@ -34,6 +34,6 @@ Revise sobre concatenação e classe String com método concat
 
 Os campos em [ ] devem ser alterados pelas informações que forem inseridas pelos usuários.
 
-#####Autor do Desafio proposto:#####
+###### Autor do Desafio proposto:
 Gleyson Sampaio
 
